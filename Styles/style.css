@@ -12,33 +12,22 @@
     background-size: cover;
     justify-content: right;
     text-align: right;
-    
-
 }
 .header-detalis{
     padding: 240px 00px 0px 0px;
-
 }
-
 .header-title{
     font-weight: 700;
     font-size: 65px;
     color: #151414;
     padding: 0px 230px 0px 0px;
     margin-bottom: 25px;
-
-
 }
-
 .header-text{
     color: #444343;
     padding: 0px 230px 0px 0px;
     margin-bottom: 32px;
-    
-
-
 }
-
 .header-button{
     width: 160px;
     height: 64px;
@@ -49,13 +38,11 @@
     font-size: 20px;
     color: #FFFFFF;
     margin: 0px 230px 0px 0px;
-
 }
 
 /* image */
 .person-img{
-    margin-left: 205px;
-    
+    margin-left: 205px;   
 }
 
 /* text,ul,li */
@@ -90,7 +77,6 @@
     margin: 0px 320px;
     margin-bottom: 130px;
 }
-
 .my-plan-tittle{
     text-align: center;
     font-weight: 700;
@@ -132,7 +118,6 @@
     margin-top: 80px;
     font-weight: 700;
     font-size: 40px;
-
 }
 .call-now-btn{
     border: 0;
@@ -166,7 +151,6 @@
     padding: 15px;
     font-weight: 900;
     font-size: 30px;
-
 }
 .contract-input{
     width: 225px;
@@ -200,19 +184,15 @@
     height: 510px;
     background-color: #151414;
     color: aliceblue;
-    
-
 }
 .left-footer{
     margin-right: 300px;
     margin-left: 330px;
     margin-top: 120px;
-
 }
 .right-footer{
     margin-right: 400px;
     margin-top: 120px;
-
 }
 .footer-title{
     font-weight: 700;
@@ -222,7 +202,6 @@
 }
 .footer-text{
     margin-bottom: 16px;
-
 }
 .footer, a{
     text-decoration: none;
@@ -239,7 +218,6 @@
     font-size: 14px;
     text-align: center;
     color: #F15B22;
-
 }
 .right-title{
     font-weight: 500;
